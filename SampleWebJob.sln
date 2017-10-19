@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebJob.ConsoleApp", "SampleWebJob.ConsoleApp\SampleWebJob.ConsoleApp.csproj", "{05B55031-A779-4C5C-8AE7-806BF958F4D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebJob.WebJobOne", "SampleWebJob.WebJobOne\SampleWebJob.WebJobOne.csproj", "{D3B75B10-4617-44F1-A770-5023CBF77FA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{05B55031-A779-4C5C-8AE7-806BF958F4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{05B55031-A779-4C5C-8AE7-806BF958F4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{05B55031-A779-4C5C-8AE7-806BF958F4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{05B55031-A779-4C5C-8AE7-806BF958F4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B75B10-4617-44F1-A770-5023CBF77FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B75B10-4617-44F1-A770-5023CBF77FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B75B10-4617-44F1-A770-5023CBF77FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B75B10-4617-44F1-A770-5023CBF77FA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
